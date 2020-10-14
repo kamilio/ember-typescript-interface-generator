@@ -1,5 +1,6 @@
 {
   "name": "ember-typescript-interface-generator",
+  "homepage": "http://kamilio.github.io/ember-typescript-interface-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
